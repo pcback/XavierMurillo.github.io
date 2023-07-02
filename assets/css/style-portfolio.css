@@ -1,0 +1,13 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+.nav {
+  background-color: #e1e1e1;
+}
+.card-body {
+  background-color: rgb(162, 162, 193);
+}
+
+.card-text {
+  color: rgb(255, 255, 255);
+}
