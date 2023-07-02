@@ -1,0 +1,72 @@
+.logo {
+  width: 86px;
+  height: 25px;
+}
+
+.logoBlack {
+  width: 82px;
+  height: 24px;
+}
+
+.navbar {
+  background-color: #28a745;
+}
+
+.buttonSubmit {
+  width: 113px;
+  height: 40;
+}
+
+.card-title {
+  font-size: 20px;
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+  color: #212529;
+}
+
+.card-text {
+  font-size: 16px;
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+  color: #707070;
+  margin-bottom: 0;
+}
+
+.second-text {
+  font-size: 13px;
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+  color: #707070;
+}
+
+.card-price {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  color: #28a745;
+}
+
+.form {
+  background-color: #28a745;
+}
+
+.text-center {
+  font-size: 21px;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+}
+
+.form-control {
+  font-size: 16px;
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+  color: #707070;
+}
+
+.nav-item {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+}
