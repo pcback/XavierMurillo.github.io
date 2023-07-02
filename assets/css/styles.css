@@ -1,0 +1,36 @@
+.profile-img {
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+}
+
+.nav {
+  background-color: #e1e1e1;
+}
+.general-bg {
+  background-color: #e1e1e1;
+}
+
+.vertical-line {
+  height: 150px;
+  border-left: 6px solid rgb(0, 0, 0);
+  color: #ffffff;
+  margin-left: 50%;
+}
+
+.education {
+  text-align: left;
+}
+
+.ed-date {
+  text-align: end;
+}
+
+.footer {
+  background-color: #e1e1e1;
+}
+
+.button {
+  width: 50%;
+  height: 50px;
+}
